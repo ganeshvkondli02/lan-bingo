@@ -1,0 +1,7 @@
+{
+  "name": "LAN Bingo",
+  "description": "Offline P2P LAN multiplayer Bingo game with 5x5 Classic and 10x10 ExtraBingo modes, automatic lobby discovery, and real-time synchronized turns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+

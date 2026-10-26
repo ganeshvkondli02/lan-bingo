@@ -1,0 +1,53 @@
+# Built application & library files
+*.apk
+!application/*.apk
+*.aar
+*.aab
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated and build directories
+bin/
+gen/
+out/
+build/
+app/build/
+.gradle/
+.build-outputs/
+
+# Local Android SDK and environment configuration
+local.properties
+.env
+
+# Android Studio & IntelliJ IDEA
+*.iml
+.idea/
+.idea_modules/
+*.ipr
+*.iws
+captures/
+.externalNativeBuild/
+.cxx/
+.navigation/
+
+# OS-specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Signing & keystore artifacts (keep base64 template for AI Studio if needed, ignore private keys)
+*.jks
+*.keystore
+debug.keystore
+
+# Temporary and log files
+*.log
